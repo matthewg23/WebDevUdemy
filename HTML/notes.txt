@@ -1,0 +1,41 @@
+// HTML is noun.
+// CSS is adjective
+// JS is the action verb
+
+
+
+// HTML was helped to created to format research papers in the 1980's.
+// HyperText Markup Language
+
+// Mark it up with some structure. 
+
+// Context is just text. Indicated to Web Browser what is to be bolded and what is to be italicised.
+
+
+
+// Servers send the instructions of 1's and 0's and Web Browser interprets them from low binary to source code html and css and JS to render it. 
+
+
+<p> element </p>
+
+
+Create elements by using tags. 
+
+<i> </i> Italicised 
+<b> </b> Bold
+
+// Make this bold
+// Make this a paragraph
+// make this a link
+// Make this an image
+
+// Just have one top level h1 element on your page. Do not use those as sizing. Just have one topic headline for your page. 
+// Headings exist in a heirarchy
+// never have an h6 without an h5, and so on. 
+
+// h1 main topic
+// h2 subtopics
+/// headers and more
+
+
+// Don't use them for sizing! //headings. Semantic hierarchical elements
