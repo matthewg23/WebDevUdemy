@@ -1,0 +1,8 @@
+// One head tag, followed by one body tag. 
+// Doctype html is a flag, not an element, that tells the browser to use HTML5.
+
+
+//html (is root)
+//head is metadata
+//body is content
+//closing html root
