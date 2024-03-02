@@ -6,3 +6,15 @@
 //head is metadata
 //body is content
 //closing html root
+
+
+
+
+within the body
+
+//unordered list
+// list item
+
+
+//ordered list
+//list item
