@@ -2,3 +2,6 @@
 // create a hyperlink to go to another or same page
 // hypertext reference
 // use an href attribute
+
+
+// alt attribute will be read by screenreader
