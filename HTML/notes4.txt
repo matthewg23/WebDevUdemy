@@ -6,3 +6,8 @@
 // a span is an inline element
 // it's perfect to use to style later in css for a specific color.
 // use it as a wrapper around the text, then apply the color
+
+
+
+// sup and sub inline elements
+// superscript and subscript.
