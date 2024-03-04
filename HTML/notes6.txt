@@ -1,0 +1,17 @@
+// Semantic HTML markup
+// Semantic - relating to meaning. Useful for other developers and easier to look at. 
+// Adding meaning to what used to be div, div, div.
+
+
+// We now have 
+<article />, | Re-usable card or content on page. Like weather widget. 
+<section />, | Split up main content into sections or subsections
+<main />, | main content self explanatory
+<header />, | introductory content 
+<footer />, 
+<nav />, 
+<aside />, | tangential content
+<summary />, 
+<details />. 
+<figure />. | illustration container or diagram.
+<time /> | for screenreaders and if include, specifiy a datetime attribute
