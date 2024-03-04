@@ -1,13 +1,16 @@
 // Tables were used to position and lay out content
 // in the 90's
 
-<table>
-<td>
-<tr>
-<th>
+// main content of table
+<table> table container
+<td> table data cell 
+<tr> table row
+<th> * th is table head cell. 
+// these next three do nothing, but are for logical sections
 <thead>
 <tbody>
 <tfoot>
+
 <colgroup>
 <caption>
 
