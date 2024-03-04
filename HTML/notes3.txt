@@ -5,3 +5,6 @@
 
 
 // alt attribute will be read by screenreader
+
+// a anchor tags are inline elements
+// p tags are block elements

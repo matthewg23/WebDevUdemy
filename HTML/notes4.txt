@@ -1,0 +1,8 @@
+// div is a generic container
+// div is a block element
+// Whatever you put inside it, it will be a part of the block. 
+
+
+// a span is an inline element
+// it's perfect to use to style later in css for a specific color.
+// use it as a wrapper around the text, then apply the color
