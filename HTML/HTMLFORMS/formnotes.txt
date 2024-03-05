@@ -1,0 +1,11 @@
+form element represents a document sections
+containing interactive controls for users to submit information
+
+the action attribute
+specifies where the data should be sections
+
+the method attribute
+specifies what HTTP method should be used
+
+<form>
+<input>
