@@ -9,13 +9,28 @@
 
 <body>
     <h1>Forms Demo</h1>
-    <input type="text" placeholder="username">
-    <input type="password" placeholder="enter password">
-    <input type="color">
-    <input type="month">
-    <input type="number">
 
-    <form action="https://www.reddit.com/search/?q="></form>
+
+
+    <form action="https://www.reddit.com/search/?q=">
+        <p>
+            <label for="username">Enter a username:</label>
+            <input id="username" type="text" placeholder="username">
+        </p>
+        <p>
+            <label for="password">Enter a password:</label>
+            <input id="password" type="password" placeholder="enter password">
+
+        </p>
+        <p>
+            <label for="color">Choose a color:</label>
+            <input type="color" id="color">
+        </p>
+        <p>
+            <label for="number">Enter a number:</label>
+            <input type="number" id="number">
+        </p>
+    </form>
 </body>
 
 </html>
