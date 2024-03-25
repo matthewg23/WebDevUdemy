@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms Pt.II</title>
+</head>
+
+<body>
+    <h1>Forms page</h1>
+
+    <h2>More kinds of inputs</h2>
+    <form action="/formresults">
+        <label for="agree">I agree to everything</label>
+        <input type="checkbox" name="agree_tos" id="agree">
+        <p>
+            <label for="e">Space</label>
+            <input type="radio" name="element" id="e" value="akash">
+            <br>
+            <label for="v">Air</label>
+            <input type="radio" name="element" id="v" value="vayu">
+            <br>
+            <label for="a">Fire</label>
+            <input type="radio" name="element" id="a" value="agni">
+            <br>
+            <label for="j">Water</label>
+            <input type="radio" name="element" id="j" value="jala">
+            <br>
+            <label for="p">Earth</label>
+            <input type="radio" name="element" id="p" value="prithvi">
+        </p>
+        <p>
+            <label for="time">Please select your ideal time of day.</label>
+            <select name="time" id="time">
+                <option value="ear">Early morning</option>
+                <option value="mor">Morning</option>
+                <option value="aft">Noon</option>
+                <option value="coo">Cool of the day</option>
+                <option value="clo">Close of the day</option>
+                <option value="nig">Night time</option>
+            </select>
+        </p>
+        <button>Submit Form</button>
+    </form>
+</body>
+
+</html>
